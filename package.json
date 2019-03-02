@@ -14,7 +14,8 @@
     "vue-native-helper": "0.0.10"
   },
   "devDependencies": {
-    "babel-preset-expo": "^5.0.0"
+    "babel-preset-expo": "^5.0.0",
+    "vue-native-scripts": "0.0.14"
   },
   "private": true
 }
